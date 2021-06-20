@@ -12,25 +12,22 @@
 <!--
 - 🔭 I’m currently working on Udacity React Nanodegree
 - 🌱 I’m currently learning Redux
+- 😊 I’m looking for Job as junior React developer
+- 🤝 I’m looking to collaborate on **any live project**
+- ⚡ Fun fact: **I love to play video games and workout **
 -->
 
--   😊 I’m looking for Job as junior React developer
--   🤝 I’m looking to collaborate on **any live project**
 -   💬 Ask me about :
     -   **How is my life going? 😉**
     -   **React || Redux || Javascript**
     -   **Front-End Development || Web Development**
 -   📫 How to reach me:
+
     -   **1. [LinkedIn](https://www.linkedin.com/in/achraf-oudani/)**
     -   **2. [Instagram](https://www.instagram.com/achraf.oudani/)**
     -   **3. [Facebook](https://www.facebook.com/achraf.oudani/)**
     -   **4. [Gmail](mailto:achraf.oudani@gmail.com)**
--   😄 Pronouns:
 
-    -   **An illusive coder**
-
--   ⚡ Fun fact:
-    -   **A living sarcastic soul with punches of humor 😂**
-    -   **Wicket-Keeper Batsman waiting to be in the field 🏏**
+-   -
 
 <img src="https://github-readme-stats.vercel.app/api?username=Devxman007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
