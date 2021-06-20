@@ -20,6 +20,9 @@
 -   💬 Ask me about :
     -   **How is my life going? 😉**
     -   **React || Redux || Javascript**
+    -   I’m currently working on Udacity React Nanodegree
+    -   I’m currently learning Redux
+    -   Fun fact: **I love to play video games and workout**
     -   **Front-End Development || Web Development**
 -   📫 How to reach me:
 
