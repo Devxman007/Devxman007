@@ -7,24 +7,9 @@
 [![Facebook Badge](https://img.shields.io/badge/-Achraf-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/achraf.oudani/)
 [![Gmail Badge](https://img.shields.io/badge/-achraf.oudani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:achraf.oudani@gmail.com)
 
-**I am a frontend developer passionate about web technologies (web design, HTML, CSS, JS, etc.) and other frameworks especially React JS. My experiences include working as a freelancer JavaScript developer for a while at multiple platforms as well as an employee for couple of years as a web developer Currently, I am enrolled in Udacity's React Nanodegree program where I am learning more about React libraries (React Native, Redux, etc.), new ECMAScript standards and other stuff. Moving forward, I want to enrich my skills and live up to other challenges to increase my experience in web front development.**
+**I am a Full-Stack developer passionate about web technologies (web design, HTML, CSS, JS, etc.) and other frameworks especially Angular and React JS. I want to enrich my skills and live up to other challenges to increase my experience.**
 
-<!--
-- 🔭 I’m currently working on Udacity React Nanodegree
-- 🌱 I’m currently learning Redux
-- 😊 I’m looking for Job as junior React developer
-- 🤝 I’m looking to collaborate on **any live project**
-- ⚡ Fun fact: **I love to play video games and workout **
--->
 
--   💬 Ask me about :
-    -   **How is my life going? 😉**
-    -   **React || Redux || Javascript**
-    -   **I’m currently working on Udacity React Nanodegree**
-    -   **I’m currently learning Redux**
-    -   **Fun fact: I love to play video games and workout**
-    -   **Front-End Development || Web Development**
--   📫 How to reach me:
 
     -   **1. [LinkedIn](https://www.linkedin.com/in/achraf-oudani/)**
     -   **2. [Instagram](https://www.instagram.com/achraf.oudani/)**
