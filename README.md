@@ -11,11 +11,3 @@
 
 
 
-    -   **1. [LinkedIn](https://www.linkedin.com/in/achraf-oudani/)**
-    -   **2. [Instagram](https://www.instagram.com/achraf.oudani/)**
-    -   **3. [Facebook](https://www.facebook.com/achraf.oudani/)**
-    -   **4. [Gmail](mailto:achraf.oudani@gmail.com)**
-
--   
-
-
